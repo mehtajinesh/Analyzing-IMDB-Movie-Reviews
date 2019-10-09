@@ -1,0 +1,10 @@
+pandas
+numpy
+nltk
+beautifulsoup4
+html5lib
+sklearn
+bs4
+pickle-mixin
+sagemaker
+https://download.pytorch.org/whl/cu90/torch-1.1.0-cp37-cp37m-win_amd64.whl
