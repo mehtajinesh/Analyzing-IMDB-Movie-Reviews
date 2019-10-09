@@ -18,6 +18,14 @@ Things to install before starting :
 
 - Python 3.7 'https://www.python.org/downloads/release/python-370/'
 
+- AWS CLI 
+
+  ```pip install awscli```
+  
+  - once the installation is done, configure the system with your aws_key_id, aws_key and region by doing the following:
+  
+    ```aws configure```
+
 ## Deployment Steps
 
 1. First step is to install all the modules required to run the python code into your local system. Use the following command:
