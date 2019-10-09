@@ -2,3 +2,5 @@
 .env
 
 .vscode/*
+
+data/aclImdb/*

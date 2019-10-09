@@ -8,3 +8,6 @@ bs4
 pickle-mixin
 sagemaker
 https://download.pytorch.org/whl/cu90/torch-1.1.0-cp37-cp37m-win_amd64.whl
+boto3
+python-dotenv
+sagemaker_containers
