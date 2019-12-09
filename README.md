@@ -1,4 +1,4 @@
-# Sentimental-Analysis-using-NN
+# Sentimental-Analysis-using-PyTorch
 
 This project allows a user to provide their review regarding a movie and using Sentimental Analysis, the underlying model predicts whether the review is positive or negative. The training model is trained using Pytorch NN and training data used is IMDB review dataset available at https://www.kaggle.com/utathya/imdb-review-dataset.
 
@@ -74,6 +74,5 @@ Things to install before starting :
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
 - Copyright 2019 © <a href="http://jineshmehta.com" target="_blank">Jinesh Mehta</a>.
 
-## Acknowledgments
-
-* Udacity Machine Learning Course
+### **Reviews & Validations**
+- From [Udacity](https://github.com/mehtajinesh/Sentimental-Analysis-using-PyTorch/blob/master/review.pdf)
